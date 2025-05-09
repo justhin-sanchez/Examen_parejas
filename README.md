@@ -1,6 +1,13 @@
 # Examen-parejas
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Ejemplo:
+![image](https://github.com/user-attachments/assets/b6576f50-ed11-42bc-b562-77e19a2e0cb9)
+
+## Ejecion final en parejas:
+![image](https://github.com/user-attachments/assets/64ebd30e-6051-4813-a854-3f35fdcdeee4)
+![image](https://github.com/user-attachments/assets/28ff747f-9f80-421b-a9b2-b5f1597a4a5a)
+
+
 
 ## Getting Started
 
